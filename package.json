@@ -1,0 +1,12 @@
+{
+  "name": "email-marketing-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo \"No-op build\"",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
